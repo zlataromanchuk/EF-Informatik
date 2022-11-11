@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zlataromanchuk.github.io/EF-Informatik/</id>
+    <title>Lern Blog Blog</title>
+    <updated>2022-08-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zlataromanchuk.github.io/EF-Informatik/"/>
+    <subtitle>Lern Blog Blog</subtitle>
+    <icon>https://zlataromanchuk.github.io/EF-Informatik/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello]]></title>
+        <id>/2022/08/16/einstieg</id>
+        <link href="https://zlataromanchuk.github.io/EF-Informatik/2022/08/16/einstieg"/>
+        <updated>2022-08-16T00:00:00.000Z</updated>
+    </entry>
+</feed>
